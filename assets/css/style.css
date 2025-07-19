@@ -5,10 +5,32 @@ body {
   line-height: 1.6;
   padding: 1rem;
 }
-
-h1, h2, h3 {
-  color: #005f73;
-}
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: #222;
+  }
+nav {
+    background-color: #333;
+    padding: 1rem;
+    text-align: center;
+  }
+  nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  nav a:hover {
+    text-decoration: underline;
+  }
+header p {
+    font-size: 1rem;
+    color: #444;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
 
 a {
   color: #0a9396;
@@ -27,11 +49,12 @@ header {
 }
 
 .profile-img {
-  max-width: 150px;
-  border-radius: 50%;
-  margin: 1rem auto;
-  display: block;
-}
+    max-width: 120px;
+    border-radius: 50%;
+    margin: 1rem auto;
+    display: block;
+    border: 3px solid #ccc;
+  }
 
 .project {
   border: 1px solid #ccc;
