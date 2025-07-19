@@ -18,5 +18,7 @@ title: "Home"
 </p>
 </header>
 
-[Home](/) | [Resume](/resume) | [Projects](/projects) | [Contact](/contact)
+<footer>
+  <p>© 2025 Sach | Powered by Jekyll + GitHub Pages</p>
+</footer>
 
