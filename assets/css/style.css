@@ -1,1 +1,49 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f7fa;
+  color: #333;
+  line-height: 1.6;
+  padding: 1rem;
+}
 
+h1, h2, h3 {
+  color: #005f73;
+}
+
+a {
+  color: #0a9396;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  background: #94d2bd;
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.profile-img {
+  max-width: 150px;
+  border-radius: 50%;
+  margin: 1rem auto;
+  display: block;
+}
+
+.project {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  background-color: #e9f5f5;
+}
+
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 0.8rem;
+  color: #666;
+}
