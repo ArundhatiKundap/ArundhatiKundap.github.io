@@ -6,17 +6,6 @@ url: "https://arundhatikundap.github.io/"
 theme:  jekyll-theme-minimal
 logo: "/assets/images/profile.jpg"
 
-# Navigation (depends on theme support)
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Resume"
-    url: "/resume"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Contact"
-    url: "/contact"
-
 # Social links
 linkedin_username: https://www.linkedin.com/in/arundhati-vibhute-17702819/
 email: arundhatik0@gmail.com
