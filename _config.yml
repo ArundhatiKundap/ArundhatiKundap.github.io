@@ -1,3 +1,24 @@
-title: ProjectsByArundhati
-description: A personal site hosted with GitHub Pages.
-theme: jekyll-theme-minimal
+title: "Arundhati Vibhute Portfolio"
+description: "Full Stack Developer | React | Spring Boot | AWS Certified"
+baseurl: "https://github.com/ArundhatiKundap"
+url: "https://arundhatikundap.github.io/"
+
+theme:  jekyll-theme-cayman
+logo: "/assets/images/profile.jpg"
+
+# Navigation (depends on theme support)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Resume"
+    url: "/resume"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Contact"
+    url: "/contact"
+
+# Social links
+linkedin_username: https://www.linkedin.com/in/arundhati-vibhute-17702819/
+email: arundhatik0@gmail.com
+github_username: https://www.linkedin.com/in/arundhati-vibhute-17702819/
+
