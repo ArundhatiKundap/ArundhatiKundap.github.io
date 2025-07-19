@@ -4,6 +4,7 @@ title: "Home"
 ---
 
 ![Profile Picture](/assets/images/profile.jpg)
+[Home](/) | [Resume](/resume) | [Projects](/projects) | [Contact](/contact)
 
 ## Hi, I'm Arundhati 👋  
 I’m a Full Stack Developer passionate about building clean and functional web applications.  
