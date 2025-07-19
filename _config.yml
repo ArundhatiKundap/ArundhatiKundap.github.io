@@ -5,6 +5,8 @@ url: "https://arundhatikundap.github.io/"
 
 theme:  jekyll-theme-minimal
 logo: "/assets/images/profile.jpg"
+sass:
+  style: compressed
 
 # Social links
 linkedin_username: https://www.linkedin.com/in/arundhati-vibhute-17702819/
