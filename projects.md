@@ -1,7 +1,6 @@
 ---
 layout: none
 title: "Projects"
-permalink: /projects/
 ---
 
 <!DOCTYPE html>
