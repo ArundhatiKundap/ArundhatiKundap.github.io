@@ -1,7 +1,6 @@
 ---
 layout:default
 title:"Contact"
-<link rel="stylesheet" href="/assets/css/style.css">
 ---
 <div class="contact-container">
 
