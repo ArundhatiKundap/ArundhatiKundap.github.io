@@ -1,6 +1,7 @@
 ---
-layout:none
-title:"Resume"
+layout: none
+title: "Resume"
+permalink: /resume/
 ---
 
 <!DOCTYPE html>
@@ -11,11 +12,14 @@ title:"Resume"
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-<div>
-📄 Resume
+  <div class="resume-container">
+    <h2>📄 Resume</h2>
 
-[Download Resume (PDF)](/assets/Arundhati_Launchcode_Resume.pdf)
-
-</div>
+    <p>
+      <a href="/assets/Arundhati_Launchcode_Resume.pdf" target="_blank" download>
+        📥 Download Resume (PDF)
+      </a>
+    </p>
+  </div>
 </body>
 </html>
