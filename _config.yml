@@ -1,7 +1,7 @@
 title: "Arundhati Vibhute Portfolio"
 description: "Full Stack Developer | React | Spring Boot | AWS Certified"
 
-baseurl: "" # keep empty for user/organization GitHub Pages
+baseurl: ""
 url: "https://arundhatikundap.github.io"
 
 theme: jekyll-theme-minimal
@@ -9,7 +9,7 @@ theme: jekyll-theme-minimal
 sass:
   style: compressed
 
-# Social links — must be only usernames, not full URLs
+
 linkedin_username: arundhati-vibhute-17702819
 github_username: ArundhatiKundap
 email: arundhatik0@gmail.com
