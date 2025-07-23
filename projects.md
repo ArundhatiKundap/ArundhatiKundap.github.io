@@ -1,9 +1,15 @@
 ---
 layout:default
 title:"Projects"
-<link rel="stylesheet" href="/assets/css/style.css">
 ---
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
 <div class="projects-container">
     <h2>🚀 Projects</h2>
 
@@ -22,3 +28,5 @@ title:"Projects"
     </div>
 
 </div>
+</body>
+</html>
