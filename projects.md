@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Projects"
+layout:default
+title:"Projects"
 <link rel="stylesheet" href="/assets/css/style.css">
 ---
 
