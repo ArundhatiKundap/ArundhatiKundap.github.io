@@ -14,7 +14,6 @@ title: "Home"
 
   <div class="content">
     <header>
-      <img src="/assets/images/aruprofile.jpg" alt="Profile Picture" class="profile-img" />
       <h1>Hi, I'm Arundhati Vibhute</h1>
       <p>I’m a Full Stack Developer passionate about clean, scalable applications.<br>
       💡 Skilled in <strong>React</strong>, <strong>Spring Boot</strong>, and <strong>AWS</strong>.<br>
