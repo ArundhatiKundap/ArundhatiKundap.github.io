@@ -1,9 +1,15 @@
 ---
-layout:default
+layout:none
 title:"Home"
-<link rel="stylesheet" href="/assets/css/style.css">
 ---
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
 <div class="container">
   <nav>
     <a href="/">Home</a>
@@ -25,3 +31,5 @@ title:"Home"
     </footer>
   </div>
 </div>
+</body>
+</html>
