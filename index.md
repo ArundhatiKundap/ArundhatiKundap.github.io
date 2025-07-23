@@ -1,6 +1,6 @@
 ---
-layout:none
-title:"Home"
+layout: none
+title: "Home"
 ---
 <!DOCTYPE html>
 <html lang="en">
