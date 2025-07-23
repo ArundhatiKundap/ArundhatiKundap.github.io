@@ -1,68 +1,42 @@
-
-header h1 {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
-    color: #222;
-  }
-nav {
-    background-color: #333;
-    padding: 1rem;
-    text-align: center;
-  }
-  nav a {
-    color: white;
-    margin: 0 15px;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  nav a:hover {
-    text-decoration: underline;
-  }
-header p {
-    font-size: 1rem;
-    color: #444;
-    max-width: 600px;
-    margin: 0 auto;
-    line-height: 1.6;
-  }
-
-a {
-  color: #0a9396;
-  text-decoration: none;
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  color: #333;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
-header {
-  background: #94d2bd;
+.container {
+  max-width: 960px;
+  margin: auto;
   padding: 2rem;
-  border-radius: 10px;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 1rem;
   text-align: center;
 }
 
-.profile-img {
-    max-width: 120px;
-    border-radius: 50%;
-    margin: 1rem auto;
-    display: block;
-    border: 3px solid #ccc;
-  }
+.navbar a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
 
-.project {
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 1rem;
-  margin-bottom: 1.5rem;
-  background-color: #e9f5f5;
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  color: #007acc;
 }
 
 footer {
   text-align: center;
-  margin-top: 2rem;
-  font-size: 0.8rem;
-  color: #666;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #777;
 }
 .contact-container {
     max-width: 600px;
