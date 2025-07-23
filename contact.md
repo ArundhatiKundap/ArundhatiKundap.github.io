@@ -2,6 +2,15 @@
 layout:default
 title:"Contact"
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
 <div class="contact-container">
 
     <h2>📬 Contact Me</h2>
@@ -16,3 +25,5 @@ title:"Contact"
     </ul>
     <img src="/assets/images/aruprofile.jpg" alt="Profile Photo" class="contact-profile-img">
 </div>
+</body>
+</html>
