@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Projects"
+<link rel="stylesheet" href="/assets/css/style.css">
 ---
 
 <div class="projects-container">
