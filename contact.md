@@ -7,7 +7,7 @@ title:"Contact"
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Home</title>
+  <title>Contact</title>
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
