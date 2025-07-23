@@ -1,5 +1,5 @@
 ---
-layout🅰️
+layout:none
 title:"Resume"
 ---
 
