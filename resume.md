@@ -1,13 +1,12 @@
 ---
-layout: default
-title: "Resume"
+layout:default
+title:"Resume"
 <link rel="stylesheet" href="/assets/css/style.css">
-
 ---
 <div>
-## 📄 Resume
+📄 Resume
 
-[Download Resume (PDF)](/assets/Sach_Resume.pdf)
+[Download Resume (PDF)](/assets/Arundhati_Launchcode_Resume.pdf)
 
 ![Resume Screenshot](/assets/images/resume_preview.png)
 </div>
