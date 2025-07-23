@@ -7,7 +7,7 @@ title:"Resume"
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Home</title>
+  <title>Resume</title>
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
